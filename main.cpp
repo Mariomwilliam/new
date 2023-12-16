@@ -1,10 +1,10 @@
 #include <iostream>
 using namespace std;
+int my_sum(int a , int b)
 int main(){
-cout<<"hello";
-
-cout<<"i am student ";
-cout<<"i have 21";
-
-return 0;
+cout<<"Hello world! \n";
+}
+int my_sum(int a , int b)
+{
+return a+b;
 }
